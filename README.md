@@ -8,7 +8,7 @@ A simple CRUD application where the all information of the users are stored.
 
 ### To Run this project, install the necessary modules using
 ```
-npm install
+npm install axios mongoose ejs body-parser dotenv morgan
 ```
 
 Then Create config.env file and create PORT and MONGO_URL Variable and specify Value of the port number and MongoDB connection link.
